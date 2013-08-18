@@ -21,6 +21,15 @@ TODO List
 - 整合弹幕播放
 - etc...
 
+Dependecies
+===
+- https://github.com/JakeWharton/ActionBarSherlock/
+- https://github.com/JakeWharton/Android-ViewPagerIndicator
+- https://github.com/chrisbanes/Android-PullToRefresh
+- https://github.com/jfeinstein10/SlidingMenu
+- https://github.com/chrisbanes/PhotoView
+- ...
+
 License
 ===
 
