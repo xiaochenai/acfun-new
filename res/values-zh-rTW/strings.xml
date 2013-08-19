@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="time">番組列表</string>
+	<string name="userhome">個人中心</string>
+	<string name="nav">頻道</string>
+	<string name="play_btn">播放</string>
+	<string name="time_out">|д` ) 連接超時,點擊屏幕重新加載</string>
+	<string name="net_work_error">(つд⊂) 暫無網絡連接！ </string>
+	<string name="loading">(`・ω・´) 努力地加載中...</string>
+	<string name="reloading">(つд⊂)  oops！點我重新加載...</string>
+	<string name="nocomments">(`・ω・´) 快搶沙發！！!</string>
+	<string name="nomorecomments">(=ﾟωﾟ)= 已經沒有啦...</string>
+	<string name="noparser">(=ﾟωﾟ)= 沒有解析到視頻...</string>
+	<string name="noresult">(=ﾟωﾟ)= 什麽也沒有搜索到...</string>
+	<string name="action_bar_share">分享</string>
+	<string name="action_bar_fov">收藏</string>
+	<string name="action_bar_comment">評論</string>
+	<string name="isboy">可愛的男孩子,還沒有登陸</string>
+	<string name="boy">♂♂</string>
+	<string name="refresh">刷新</string>
+	<string name="sync">同步</string>
+	<string name="update_success">\\(^o^)/ 更新列表成功</string>
+	<string name="update_fail">(︶︿︶) 更新失敗，請檢查網絡！</string>
+	<string name="update_lock">(-д-) 不要太在意更新...</string>
+	<string name="update_error">(=ﾟωﾟ)= AC娘似乎不在家...</string>
+	<string name="read_cache">(`・ω・´) 歡迎回來！</string>
+	<string name="refreshing">(^ω^) 嘿咻嘿咻嘿...~</string>
+	<string name="pull_refresh">(╯▽╰) 下拉刷新~</string>
+	<string name="release_refresh">(つд⊂) 放手吧~</string>
+	<string name="downloaded">下載完成</string>
+	<string name="download_fail">下載失敗！</string>
+	<string name="start_download">開始下載</string>
+	<string name="share_content">(=ﾟωﾟ)= A站Android客戶端，推薦給你！記得好評！\n https://play.google.com/store/apps/details?id=tv.ac.fun</string>
+	<string name="menu_download_delete">刪除</string>
+	<string name="menu_download_resume">繼續</string>
+	<string name="menu_download_pause">暫停</string>
+	<string name="menu_select_all">全選</string>
+	<string name="no_download">O(∩_∩)O 沒有下載項~</string>
+	<string name="nosdcard">沒有找到外部存儲卡！</string>
+	<string name="hide_requote">重複引用已隱藏</string>
+	<string name="download_tips">當前未連WIFI，下載視頻文件非常耗流量，是否繼續？</string>
+</resources>

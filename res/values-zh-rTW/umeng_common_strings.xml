@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="umeng_common_action_info_exist">正在下載中.</string>
+	<string name="umeng_common_info_interrupt">下載出錯啦，請檢查網絡後繼續。</string>
+	<string name="umeng_common_action_pause">暫停</string>
+	<string name="umeng_common_action_continue">繼續</string>
+	<string name="umeng_common_action_cancel">取消</string>
+	<string name="umeng_common_download_notification_prefix">正在下載: </string>
+    <string name="umeng_common_network_break_alert">請連接網絡後再嘗試！</string>
+	<string name="umeng_common_download_failed">下載失敗</string>
+</resources>
