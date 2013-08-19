@@ -1,6 +1,9 @@
 
-package tv.ac.fun;
+package tv.ac.fun.ui.activity;
 
+import tv.ac.fun.R;
+import tv.ac.fun.R.layout;
+import tv.ac.fun.R.menu;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
